@@ -22,6 +22,12 @@ export const Contador = () => {
 }
 
 /*
+export const Hijo = ({ mensaje }) => {
+    return (
+        <>
+            <h3>Mensaje del padre: {mensaje}</h3>
+        </>
+    )
 
 import { useState } from "react"
 
