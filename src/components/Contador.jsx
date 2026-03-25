@@ -22,6 +22,23 @@ export const Contador = () => {
 }
 
 /*
+
+import { useState } from "react"
+
+export const Contador = () => {
+
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+    const [contador, setContador] = useState(0);
+
+  )
 export const Hijo = ({ mensaje }) => {
     return (
         <>
